@@ -1,0 +1,35 @@
+body {
+    background-color:yellow;
+}
+.h{
+color:blue;
+    font-family:serif;
+    
+}
+.k{
+color:red;
+    font-family:fantasy;
+}
+a {
+    text-decoration:none;
+}
+marquee {
+    transition:4s;
+    background-color:#fde910;
+    margin:10px;
+    border-radius:2px;
+    padding:10px;
+    overflow:hidden ;
+}
+marquee:hover {
+    height:50px;
+    font-size:30px;
+    border-radius:30px;
+    transition:2s;
+    font-family:cursive;
+ }
+
+p {
+    text-align:center ;
+    padding:10px;
+}
